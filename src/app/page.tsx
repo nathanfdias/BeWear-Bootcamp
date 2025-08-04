@@ -1,9 +1,11 @@
+import { Button } from "@/components/ui/button";
+
 const Home = () => {
   return (
     <div>
-      <h1>Home</h1>
+      <Button className="ny-1 bg-red-500 px-5">Bootcamp</Button>
     </div>
-  )
-}
+  );
+};
 
 export default Home;
