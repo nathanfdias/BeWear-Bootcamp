@@ -1,0 +1,21 @@
+REQUISITOS FUNCIONAIS:
+->SEO( Search Engine Optimization)
+->User login
+->User deve conseguir modificar carrinho de compras
+->Quantidade de produtos
+->User pode Finalizar Pedido
+->Ter um ou mais produtos
+->Produto pode ter variantes
+->Usuario deve conseguir fazer o pagamento via C.Credito
+->Usuario deve conseguir gerenciar enderecos de entrega
+->Usuario deve conseguir visualizar pedidos feitos
+
+
+
+
+REQUISITOS TECNICOS
+->React
+->Next.js
+->PostgreSQL
+	-ACID Transactions
+	-Integridade de dados
