@@ -1,0 +1,5 @@
+npx drizzle-kit push
+
+npx drizzle-kit studio
+
+npx tsx --env-file=.env src/db/seed.ts
